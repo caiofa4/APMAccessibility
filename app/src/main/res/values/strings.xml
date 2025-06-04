@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APMAccessibility</string>
+    <string name="accessibility_service_description">This service toggles APM of device automatically, using accessibility features</string>
+</resources>
